@@ -18,7 +18,7 @@ npm install diet-use
 It will traverse up from the current directory to search for a module in a `node_modules` folder until it finds it. If no modules match it will try to inlcude the directory.
 
 ### Example
-```
+```javascript
 // file structure
 - root
 	- node_modules
