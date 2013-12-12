@@ -27,7 +27,7 @@ It will traverse up from the current directory to search for a module in a `node
 		- server.js
 ```
 
-```
+```javascript
 // in server.js
 use('matrix');
 ```
